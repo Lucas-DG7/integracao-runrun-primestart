@@ -85,11 +85,4 @@ curl -X POST http://localhost:5000/webhook \
 
 ---
 
-## 📢 Dica Bônus: Demonstração Visual  
-Grave a tela mostrando:  
-✅ Terminal rodando `python main.py`  
-✅ Simulação do evento Webhook  
-✅ Estrutura do repositório no GitHub  
-
-E finalize com a frase:  
-> "Este projeto mostra minha capacidade de integrar plataformas reais, com foco em segurança, manutenção e escalabilidade. Estou pronto para trazer esse nível de integração para sua empresa." 
+## "Este projeto mostra minha capacidade de integrar plataformas reais, com foco em segurança, manutenção e escalabilidade. Estou pronto para trazer esse nível de integração para sua empresa." 
