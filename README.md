@@ -1,7 +1,3 @@
-# Aqui está um README estruturado e chamativo para o seu projeto! 📄🚀  
-
----
-
 # 🚀 Integração Runrun.it x PrimeStart – Automação Inteligente em Python  
 
 A revolução na conectividade entre plataformas chegou! Esta integração **simples, robusta e eficiente** conecta o sistema de gestão de tarefas **Runrun.it** à plataforma **PrimeStart**, garantindo um fluxo de trabalho ágil e automatizado.  
